@@ -1,31 +1,52 @@
+/*Resetting all of the default padding, margin and Border Values to 0*/
 * {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
+/*defining parent values*/
 html {
     font-family: Verdana, Arial;
-    font-size: 16px;
+    font-size: 21px;
     text-align: center;
-}
-
-.body{
-
-}
-
-.img {
-    margin: 0 274.366px;
+    color: white;
     background-color: black;
 }
 
-header {
+
+/*Defining the different text formats needed*/
+
+h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    padding-bottom: 30px;
 }
 
 a {
     color: aquamarine;
 }
+
+p {
+    margin: 40px 0px;
+}
+}
+
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
+
+.footer {
+    color: gray;
+    text-align: right;
+    margin: 20px 10px;
+}
+
