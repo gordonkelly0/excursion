@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    font-family: Verdana, Arial;
+    font-size: 16px;
+    text-align: center;
+}
+
+.body{
+
+}
+
+.img {
+    margin: 0 274.366px;
+    background-color: black;
+}
+
+header {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    padding-bottom: 30px;
+}
+
+a {
+    color: aquamarine;
+}
